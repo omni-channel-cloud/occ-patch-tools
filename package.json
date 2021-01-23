@@ -4,7 +4,7 @@
 	"description": "",
 	"version": "1.1.0",
 	"publisher": "occ",
-	"icon": "https://raw.githubusercontent.com/omni-channel-cloud/occ-patch-tools/master/images/icon.png",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
