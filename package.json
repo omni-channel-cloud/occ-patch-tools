@@ -2,7 +2,7 @@
 	"name": "occ-patch-tool",
 	"displayName": "Occ Patch",
 	"description": "",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "occ",
 	"icon": "images/icon.png",
 	"engines": {
